@@ -11,3 +11,5 @@ The Unity projects for these sites can be found on my GitHub.
 TheoryCraftHelper : https://github.com/Tytyn000/THCHelper 
 
 WordsCounter : https://github.com/Tytyn000/WordsCounter
+
+Infortunatly the web version has some bugs, I advise to use the windows build version.
